@@ -53,3 +53,16 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Proteus Simulation Backups & Workspace
+*.pdsbak
+*.workspace
+
+# IDE-specific local settings
+.metadata/
+
+# Build folders (Catch-all)
+Debug/
+Release/
+bin/
+obj/
